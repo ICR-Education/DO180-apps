@@ -46,3 +46,129 @@
    46  history >> zsh.history
    47  cd DO180-apps
    48  rm zsh.history
+    1  git clone https://github.com/powerline/fonts.git --depth=1
+    2  cd fonts
+    3  ./install.sh
+    4  cd ..
+    5  pwd
+    6  cd git
+    7  cd Git
+    8  ls
+    9  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k\necho 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+   10  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+   11  ls
+   12  cd Git
+   13  ls
+   14  ls -la
+   15  git clone https://github.com/ICR-Education/DO180-apps.git
+   16  p10k
+   17  p10k configure
+   18  cd DO180-apps
+   19  ls
+   20  ls-la
+   21  ls -la
+   22  cd ..
+   23  ls
+   24  cd ..
+   25  pwd
+   26  ls .la
+   27  ls -la
+   28  cd Git
+   29  echo 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 >> github.token
+   30  history
+   31  history >> zsh.history
+   32  cd DO180-apps
+   33  pwd
+   34  git config --global credential.helper cache 
+   35  git config --global credential.helper cache \'cache --timeout=3600'
+   36  git config --global credential.helper \'cache --timeout=3600'\n
+   37  git config --global credential.helper \ 'cache --timeout=3600'\n
+   38  lab-configure
+   39  cat 569812befb854516aa30
+   40  cat /usr/local/etc/ocp4.config
+   41  . /usr/local/etc/ocp4.config
+   42  echo $RHT_OCP4_NEXUS_SERVER
+   43  history >> zsh.history
+   44  ls -la
+   45  cd ..
+   46  history >> zsh.history
+   47  cd DO180-apps
+   48  rm zsh.history
+   49  history >> zsh.history
+   50  git add .
+   51  git commit -m "Adding zsh.hisotry in order to test git"
+   52  git push --set-upstream origin testbranch
+   53  git status
+   54  git push
+   55  git push--set-upstream origin testbranch
+   56  git push --set-upstream origin testbranch
+   57  cd Git/DO180-apps
+   58  git push --set-upstream origin testbranch
+   59  cd Git/DO180-apps
+   60  git push --set-upstream origin testbranch
+   61  git push
+   62  git branch testbranch
+   63  git checkout testbranch
+   64  echo ACP4 > test.log
+   65  git add
+   66  git commit -m "teste push without passwor"
+   67  git add .
+   68  git commit -m "teste push without passwor"
+   69  git push --set-upstream testbranch
+   70  git push
+   71  git push --set-upstream origin testbranch
+   72  git config --list
+   73  git config --global credential.helper \'cache --timeout=3600'\n\n\nupdate
+   74  git config --list
+   75  git config --global credential.helper \'cache --timeout=3600'\n
+   76  git config --global credential.helper \ 'cache --timeout=3600'\n
+   77  git config --global credential.helper\n
+   78  git config --list
+   79  git config --global credential.helper \'cache --timeout=3600' \n\n\n\n\n
+   80  git config --list
+   81  git config --global credential.helper\n\n\n\n\n
+   82  git config --global credential.helper cache\n\n\n\n\n
+   83  git config --list
+   84  git push --set-upstream origin testbranch
+   85  cd ..
+   86  ls
+   87  rm -rv  DO180-apps
+   88  ls
+   89  git clone https://github.com/ICR-Education/DO180-apps.git
+   90  git branch -a
+   91  cd DO180-apps
+   92  git branch -a
+   93  git branch testbranch
+   94  git push --set-upstream orign testbranch
+   95  git branch
+   96  git checkout testbranch
+   97  git push --set-upstream orign testbranch
+   98  git push --set-upstream origin testbranch
+   99  cd ..
+  100  rm -fr DO180-apps
+  101  ls
+  102  git clone https://github.com/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/ICR-Education/DO180-apps.git
+  103  git config --local --unset credential.helper
+  104  ls
+  105  git clone https://github.com/ICR-Education/DO180-apps
+  106  cd DO180-apps
+  107  git config --local --unset credential.helper
+  108  cd ..
+  109  git config --local --unset credential.helper
+  110  cd DO180-apps
+  111  git config --local --unset credential.helper
+  112  git config --global --unset credential.helper
+  113  git config --local --unset credential.helper
+  114  git config --global --unset credential.helper
+  115  git config --global credential.helper "cache --timeout=3600"
+  116  git config --list
+  117  nano ~/.github-credentials
+  118  git config credential.helper store
+  119  nano ~/.github-credentials
+  120  cd ..
+  121  nano github.token
+  122  cd DO180-apps
+  123  git config --global --unset credential.helper
+  124  git config --global credential.helper "cache --timeout=3600"
+  125  git pull
+  126  ls
