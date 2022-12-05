@@ -1,0 +1,48 @@
+    1  git clone https://github.com/powerline/fonts.git --depth=1
+    2  cd fonts
+    3  ./install.sh
+    4  cd ..
+    5  pwd
+    6  cd git
+    7  cd Git
+    8  ls
+    9  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k\necho 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+   10  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+   11  ls
+   12  cd Git
+   13  ls
+   14  ls -la
+   15  git clone https://github.com/ICR-Education/DO180-apps.git
+   16  p10k
+   17  p10k configure
+   18  cd DO180-apps
+   19  ls
+   20  ls-la
+   21  ls -la
+   22  cd ..
+   23  ls
+   24  cd ..
+   25  pwd
+   26  ls .la
+   27  ls -la
+   28  cd Git
+   29  echo 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 >> github.token
+   30  history
+   31  history >> zsh.history
+   32  cd DO180-apps
+   33  pwd
+   34  git config --global credential.helper cache 
+   35  git config --global credential.helper cache \'cache --timeout=3600'
+   36  git config --global credential.helper \'cache --timeout=3600'\n
+   37  git config --global credential.helper \ 'cache --timeout=3600'\n
+   38  lab-configure
+   39  cat 569812befb854516aa30
+   40  cat /usr/local/etc/ocp4.config
+   41  . /usr/local/etc/ocp4.config
+   42  echo $RHT_OCP4_NEXUS_SERVER
+   43  history >> zsh.history
+   44  ls -la
+   45  cd ..
+   46  history >> zsh.history
+   47  cd DO180-apps
+   48  rm zsh.history
